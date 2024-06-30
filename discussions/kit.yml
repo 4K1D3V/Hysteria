@@ -1,89 +1,53 @@
-Suggestions : 
+## Shop and Grades
 
-In terms of shop and grade 
+### Grades
+We have three paid levels: VIP, MVP, and HERO. These tiers are shown in the tab as texture-specific icons that display a rank status for each of them: Silver, Gold, and Diamond.
 
-GRADE :
-We will only offer 3 paid grades  
+### Prestige System
+Prestige will take over standard ranks, which will be visible in a custom-made menu including five challenges for every prestige rank, and the further along you go up, they get tougher. Objectives include:
+- Reaching a financial goal
+- Spending a certain number of hours online
+- Completing various tasks
+- Voting a specific number of times
+- Reaching a certain island level
 
-" VIP - MVP - HEROS "
-they will be displayed in the tab only by an icon / An icon that reduces, silver, gold and diamond by the texture of the icon. 
+### Prestige Levels
+The different levels of prestige are:
+- Bronze I, II, III
+- Silver I to Silver III
+- Gold I, Gold II, Gold III
+- Diamond I, Diamond II, Diamond III
+- Platinum I, Platinum II, Platinum III
 
-PRESTIGE REPLACE THE RANKS : 
-The prestige will be presented in a personalized menu with 5 objectives each time that will increase according to the level of prestige. 
+Ranks themselves will be replaced by prestige levels and listed in the tab as colored icons; e.g., Bronze I, II, III, etc. But they will not appear in the chat. Only Paid Grades (VIP, MVP, HERO) will show in chat.
 
-Have a certain amount of money,
-Have a number of game hours on the server.
-Completing a lot of stuff. 
-have voted a certain number of times 
-Have a certain level of island 
+## Crates and Keys
 
+### Vote Crate
+Enchanted pickaxes, food, money, herb blocks, and shop credits.
 
-DIFFERENT PRESTIGE : 
-BRONZE I , BRONZE II , BRONZE III
-SILVER I, SILVER II, SILVER III
-GOLD I, GOLD II, GOLD III 
-DIAMOND I, DIAMOND II, DIAMOND III 
-PLATINE I, PLATINE II, PLATINE III
+### Cosmetic Crate
+DLC cosmetic items you can find on the server.
 
-As I say, if on top of it the prestige will replace the ranks. The prestige will be shown in the tab by colored icons of prestige for example bronze I II III etc.
+### Epic Crate
+Money, rare quests, mob spawners, custom server items, and a key for the next tier, the Celeste Crate.
 
-They won’t show in the chat.
+### Celeste Crate
+Top-tier crate on the server, special tools, top spawners, significant amounts of money (up to $10,000,000), shop credits, a HERO rank, and a cosmetic key.
 
+## Features
 
-In chat will ONLY SHOW PAID GRADES: VIP MVP HEROS
+### Enhanced Chat Interaction
+Hovering over a chat message will show the date and time it was sent. Left-clicking a player's message will automatically prepare the direct message command (/msg <player>).
 
+### Fishing Zone
+Designated fishing area at the spawn with a fisherman NPC that sells bait. A fishing kiosk where fish can be sold, with different rarities of fish based on how much they're worth. Better chance to catch rare fish in this zone.
 
+For more details on fishing features:
+- [Fishing Pack](https://builtbybit.com/resources/fishing-pack.27641/rev)
+- [Custom Fishing](https://polymart.org/resource/customfishing.2723)
 
-CRATE AND KEYS ON THE SERVER : 
+## In-Game Rankings
 
-VOTE CRATE
-"simple items like enchanted pickaxes, food money from herb blocks, shop credits"
-
-COSMETIC CRATE
-" Some cosmetics on the server "
-
-EPIC CRATE
-"We will find sums of money raised, rare quetes, spawners of mobs, customized item of the server a key for the next case " CELESTE KEY " "
-
-CELESTE CRATE - Will be the best crate on the server
-"special tools, high-level spawners, lots of money ( 10,000,000 for example), credits for the shop to see according to prices in the shop.  a HEROS grade, a cosmetic key. "
-
-SOME FEATURES : 
-
------- 1 ------
-
-Here is a list of some ideas to add to the game: 
-
-When a player hovers the mouse over a message sent in the chat, it will be written the date and time at which the message was sent.
-
-There will be an option that if the player clicks left he can contact him directly 
-when he clicks left the command/msg <player> registered in his chat
-
-
------- * ------
-
------- 2 ------
-
-When we have the spawn there will be a predifinite zone for that, a fishing zone.
-Added a pecheur pnj, which sells baits.
-a fishing stand where you can sell the fish according to their rarity the price increases.
-
-Make it so that in this area the rare fish most easily pechable 
-
-builtbybit.com/resources/fishing-pack.27641/rev
-https://polymart.org/resource/customfishing.2723
-
------- * ---------------------------------
-
-CLASSEMENT IN GAME : 
-
-In game will be integrated a ranking of the best players, in each field: the professions, top money, the one who has the most player point ( It is points will be like a currency, winnable by making quetes, reussir events, etc to see other means of earning points )
-
-The ranking will be by month: 
-
-The top 10 will be rewarded by: money, shop points for the first, boxing keys etc 
-
------------------------------
-
-
-
+### Monthly Rankings
+Global ranking system which is a combination of professions, top money holders, and players with the most points. Points can be earned through quests, events, and other activities. Top 10 players at the end of each month receive rewards such as money, shop points, and crate keys.
